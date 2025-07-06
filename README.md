@@ -32,7 +32,7 @@ The component `<LetterGlitch \>` was taken from [ReactBits.dev](https://www.reac
 ```
 4. Insert the embed code on footer.astro
 
-That's it!
+That's it!!
 
 ## **Project structure**
 ```
